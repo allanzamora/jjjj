@@ -69,3 +69,4 @@ function change(lines) {
   document.head.appendChild(script);
   currentIndex = (currentIndex + 1) % lines.length;
 }
+alert(1);
