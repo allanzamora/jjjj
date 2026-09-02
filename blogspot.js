@@ -61,7 +61,7 @@ function submit() {
 
 function change(lines) {
   const currentLine = lines[currentIndex];
-  
+  alert(1);
   const ccc = getSubdomain(currentLine);
   document.getElementById("result").textContent = ccc;
   const script = document.createElement('script');
@@ -69,4 +69,4 @@ function change(lines) {
   document.head.appendChild(script);
   currentIndex = (currentIndex + 1) % lines.length;
 }
-alert(1);
+
