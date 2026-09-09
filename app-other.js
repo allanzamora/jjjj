@@ -1,4 +1,3 @@
-document.getElementById('content').innerHTML = `
 
 document.getElementById('content').innerHTML = `
 
@@ -7,7 +6,5 @@ document.getElementById('content').innerHTML = `
 <h2>Undermaintenance</h2>
 <p>Please back after few hours.</p>
 </center>
-
-`;
 
 `;
