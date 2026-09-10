@@ -61,7 +61,27 @@ document.getElementById('content').innerHTML = `
         <li><a href="yt.html#sss=@stealthyrecap&tit=Stealthy Recap">Stealthy Recap</a></li>
         
         <li><a href="yt.html#sss=@MangaTv-sq3eu&tit=MangaTv">MangaTv</a></li>
+        <br>
+        <li>Tagalog Movies Recap channels</li>
+        <br>
+        
+        <li><a href="yt.html#sss=KdramaTagalogRecap&tit=KDrama Tagalog Recap">KDrama Tagalog Recap</a></li>
+        
+        <li><a href="yt.html#sss=PoconRecaps&tit=Pocon Recaps">Pocon Recaps</a></li>
+        
+        <li><a href="yt.html#sss=Pelikwento&tit=Elikwento">Elikwento</a></li>
+        
+        <li><a href="yt.html#sss=@filipinomovierecap&tit=Filipino Movie Recap">Filipino Movie Recap</a></li>
+        
+        <li><a href="yt.html#sss=JuanKlawdyoMovieRecap&tit=Juan Klawdyo Movie Recap">Juan Klawdyo Movie Recap</a></li>
+        
+        <li><a href="yt.html#sss=filipino-chill-recapped&tit=Filipino Chill Recapped">Filipino Chill Recapped</a></li>
+        
         <!--
+        <li><a href="yt.html#sss=&tit="></a></li>
+        
+        <li><a href="yt.html#sss=&tit="></a></li>
+        
         <li><a href="yt.html#sss=&tit="></a></li>
         
         <li><a href="yt.html#sss=&tit="></a></li>
