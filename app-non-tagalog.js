@@ -1,5 +1,7 @@
 document.getElementById('content').innerHTML = `
-
+         <div style="padding:15px;font-weight:bold;background:black;color:white;margin-bottom:15px;">
+   A new version is now available! v.1.0.1 add more anime series and movies. <b><a href="site:https://tagalog-anime143.blogspot.com/p/tagalog-anime-143-android-app.html">Update now »</a>
+   </div>
    <ul>
           
         <li><a href="aa/gg.html#sss=1a3B5-Xut8yxnviVhvzB7ECvpDzUYdfd_&tit=3+gatsu+no+Lion" target="_blank">3 gatsu no Lion</a></li>
