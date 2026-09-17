@@ -1,5 +1,5 @@
 let db;
-const STORAGE_KEY = "anime_db_storage_v31"; 
+const STORAGE_KEY = "anime_db_storage"; 
 const GITHUB_DB_URL = "https://raw.githubusercontent.com/allanzamora/jjjj/main/anime_v31.db";
 
     async function loadDatabase() {
