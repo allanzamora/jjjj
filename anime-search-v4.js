@@ -139,4 +139,13 @@ let db;
       renderEntriesUI(e.target.value);
     });
 
+    if (window.location.hash) {
+  const hashString = window.location.hash.substring(1);
+  const params = new URLSearchParams(hashString);
+  tit = params.get('tit') || "Tagalog Anime";
+  document.getElementById("searchInput").value = tit;
+  renderEntriesUI(tit);
+}
+
+
     loadDatabase();
