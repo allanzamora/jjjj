@@ -1,3 +1,3 @@
-if (version < 4) {
-    window.location = "update:https://google.com";
+if (version < 6) {
+    window.location = "update:https://allanzamora.github.io/";
 }
