@@ -39,6 +39,72 @@
                     <url>https://example.com/watch1</url>
                     <date>October 2026</date>
                 </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
                 <!-- Add up to 10 items here -->
             </items>
         </section>
@@ -49,6 +115,24 @@
             <target_activity>anime_list.java</target_activity>
             <intent_type>series</intent_type>
             <items>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
                 <item>
                     <title>Sample Series Title</title>
                     <img>https://example.com/series1.jpg</img>
