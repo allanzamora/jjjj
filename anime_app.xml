@@ -15,7 +15,7 @@
         <section>
             <title>Latest Uploads</title>
             <target_activity>anime_list.java</target_activity>
-            <intent_type>movie</intent_type>
+            <intent_type>movies</intent_type>
             <items>
                 <item>
                     <title>Wicked Little Letters</title>
@@ -23,9 +23,93 @@
                     <url>https://www.imdb.com/title/tt20234774/</url>
                     <date>October 2026</date>
                 </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                
+                
+                
+                
                 <!-- Add up to 10 items here following the same structure -->
             </items>
         </section>
+
+
+
+
+
+
+
+
 
         <!-- SECTION 2: Anime List -->
         <section>
@@ -108,6 +192,16 @@
                 <!-- Add up to 10 items here -->
             </items>
         </section>
+
+
+
+
+
+
+
+
+
+
 
         <!-- SECTION 3: Series List -->
         <section>
