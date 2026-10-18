@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <home_data>
     
+    
+    
+    
+    <!-- 
+    -->
+    <promote>
+        <item>
+            <title>Promote Image #1</title>
+            <genre>Horror, Crime, Animation</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/promo1.png</img>
+            <url>https://www.imdb.com/title/tt20234774/</url>
+        </item>
+        <item>
+            <title>Promote Image #2</title>
+            <genre>Horror, Crime, Animation</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/promo2.png</img>
+            <url>https://www.imdb.com/title/tt20234774/</url>
+        </item>
+        <item>
+            <title>Promote Image #3</title>
+            <genre>Horror, Crime, Animation</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/promo3.png</img>
+            <url>https://www.imdb.com/title/tt20234774/</url>
+        </item>
+        <item>
+            <title>Promote Image #4</title>
+            <genre>Horror, Crime, Animation</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/promo4.png</img>
+            <url>https://www.imdb.com/title/tt20234774/</url>
+        </item>
+    </promote>
+    
+    
     <!-- HEADER CONFIGURATION -->
     <header>
         <app_logo>https://example.com/logo.png</app_logo>
