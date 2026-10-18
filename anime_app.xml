@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<home_data>
+    
+    <!-- HEADER CONFIGURATION -->
+    <header>
+        <app_logo>https://example.com/logo.png</app_logo>
+        <app_title>Tagalog Moviex</app_title>
+        <app_version>1.0.0</app_version>
+    </header>
+
+    <!-- BODY SECTIONS -->
+    <sections>
+        
+        <!-- SECTION 1: Latest Uploads -->
+        <section>
+            <title>Latest Uploads</title>
+            <target_activity>anime_list.java</target_activity>
+            <intent_type>movie</intent_type>
+            <items>
+                <item>
+                    <title>Wicked Little Letters</title>
+                    <img>https://md.goojara.to/10229860.jpg</img>
+                    <url>https://www.imdb.com/title/tt20234774/</url>
+                    <date>October 2026</date>
+                </item>
+                <!-- Add up to 10 items here following the same structure -->
+            </items>
+        </section>
+
+        <!-- SECTION 2: Anime List -->
+        <section>
+            <title>Anime List</title>
+            <target_activity>anime_list.java</target_activity>
+            <intent_type>anime</intent_type>
+            <items>
+                <item>
+                    <title>Sample Anime Title</title>
+                    <img>https://example.com/anime1.jpg</img>
+                    <url>https://example.com/watch1</url>
+                    <date>October 2026</date>
+                </item>
+                <!-- Add up to 10 items here -->
+            </items>
+        </section>
+
+        <!-- SECTION 3: Series List -->
+        <section>
+            <title>Series List</title>
+            <target_activity>anime_list.java</target_activity>
+            <intent_type>series</intent_type>
+            <items>
+                <item>
+                    <title>Sample Series Title</title>
+                    <img>https://example.com/series1.jpg</img>
+                    <url>https://example.com/watch2</url>
+                    <date>October 2026</date>
+                </item>
+                <!-- Add up to 10 items here -->
+            </items>
+        </section>
+
+    </sections>
+</home_data>
