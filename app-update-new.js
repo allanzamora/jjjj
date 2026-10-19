@@ -1,3 +1,3 @@
-if (version < 11) {
-    window.location = "update:https://tagalog-movies.vercel.app/";
+if (version < 12) {
+    window.location = "update:https://allanzamora.github.io/";
 }
