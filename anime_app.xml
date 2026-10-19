@@ -61,17 +61,12 @@
     </promote>
     
     
-    <!-- HEADER CONFIGURATION -->
     <header>
         <app_logo>https://tagalog-movies.vercel.app/ic_launcher4.png</app_logo>
         <app_title>Tagalog Moviex</app_title>
         <app_version>v 1.1.2</app_version>
     </header>
  
-    <!--
-    • When click open search.java with intent "" = <yrs>
-    • Gridlayout 6 per line
-    -->
     <year>
         <target_activity>search.java</target_activity>
         <yrs>2026</yrs>
@@ -107,13 +102,13 @@
     <whatsnew>
         <item>
             <title>Bakugan Ep 16-19 [Tagalog]</title>
-            <url>aa/gg.html#sss=19XCkNRyhMo9pb4eC3IOBCqPZYeRtJ4VO</url>
-            <date>Oct 19, 2026</date>
+            <url>aa/gg.html#sss=1OA3J8bAwkVxbPaHE9qZ0_rj3hep7RO2X</url>
+            <date>Oct 20, 2026</date>
         </item>
         <item>
             <title>Crayon Shin-Chan (2012) Ep 11-12 [Tagalog]</title>
             <url>aa/gg.html#sss=1Aliny2RevTAP5e9g-Q1c3ub-6F7JuiaW</url>
-            <date>Oct 18, 2026</date>
+            <date>Oct 20, 2026</date>
         </item>
     </whatsnew>
     
