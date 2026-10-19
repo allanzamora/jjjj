@@ -10,50 +10,49 @@
         <item>
             <title>The End of Oak Street (2026)</title>
             <genre>Science Fiction, Mystery, Thriller</genre>
-            <banner></banner>
-            <img></img>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_01.jpg</img>
             <url>https://[vsr]/tt27165187/</url>
         </item>
         <item>
             <title>Super Troopers 3 (2026)</title>
             <genre>Comedy, Crime, Mystery</genre>
-            <img></img>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_02.jpg</img>
             <url>https://[vsr]/tt8820258/</url>
         </item>
         <item>
             <title>Spider-Man: Brand New Day (2026)</title>
             <genre>Science Fiction, Action, Adventure</genre>
-            <img></img>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_03.jpg</img>
             <url>https://[vsr]/tt22084616/</url>
         </item>
         <item>
             <title>The Invite (2026)</title>
             <genre>Drama, Comedy, Romance</genre>
-            <img></img>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_04.jpg</img>
             <url>https://[vsr]/tt14173636/</url>
         </item>
         <item>
             <title>Evil Dead Burn (2026)</title>
-            <genre></genre>
-            <img></img>
+            <genre>Horror</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_05.jpg</img>
             <url>https://[vsr]/tt31170389/</url>
         </item>
         <item>
             <title>Moana (2026)</title>
             <genre>Family, Fantasy, Comedy, Adventure</genre>
-            <img></img>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_06.jpg</img>
             <url>https://[vsr]/tt27419466/</url>
         </item>
         <item>
             <title>Minions & Monsters (2026)</title>
             <genre>Adventure, Animation, Comedy, Family, Fantasy</genre>
-            <img></img>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_07.jpg</img>
             <url>https://[vsr]/tt32890033/</url>
         </item>
         <item>
             <title>Return to Silent Hill (2026)</title>
             <genre>Mystery, Drama, Horror</genre>
-            <img></img>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_08.jpg</img>
             <url>https://[vsr]/tt22868010/</url>
         </item>
     </promote>
