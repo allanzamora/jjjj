@@ -60,7 +60,7 @@
     
     <!-- HEADER CONFIGURATION -->
     <header>
-        <app_logo>https://example.com/logo.png</app_logo>
+        <app_logo>https://tagalog-movies.vercel.app/ic_launcher4.png</app_logo>
         <app_title>Tagalog Moviex</app_title>
         <app_version>v 1.1.2</app_version>
     </header>
@@ -111,8 +111,8 @@
         <section>
             <title>Tagalog Series</title>
             <target_activity>anime_list.java</target_activity>
-            <intent_title>Latest Uploads</intent_title>
-            <intent_type>movies</intent_type>
+            <intent_title>Tagalog Series</intent_title>
+            <intent_type>tagalog-series</intent_type>
             <items>
                 <item>
                     <title>Assassination Classroom Season 1 [Tagalog]</title>
@@ -445,6 +445,7 @@
         <section>
             <title>Movies</title>
             <target_activity>anime_list.java</target_activity>
+            <intent_title>Movies</intent_title>
             <intent_type>movies</intent_type>
             <items>
                 <item>
