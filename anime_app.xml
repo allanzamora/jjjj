@@ -2,7 +2,7 @@
 <home_data>
     
     <apps>
-        <dbversion>18</dbversion>
+        <dbversion>19</dbversion>
     </apps>
     
     
@@ -100,6 +100,33 @@
     </year>
     
     <whatsnew>
+        <!--
+        <item>
+            <title></title>
+            <url></url>
+            <date>Oct 20, 2026</date>
+        </item>
+        -->
+        <item>
+            <title>Iron Lung (2026)</title>
+            <url>https://www.imdb.com/title/tt27564844/</url>
+            <date>Oct 23, 2026</date>
+        </item>
+        <item>
+            <title>Ready or Not 2: Here I Come (2026)</title>
+            <url>https://www.imdb.com/title/tt33978029/</url>
+            <date>Oct 23, 2026</date>
+        </item>
+        <item>
+            <title>Colony (2026)</title>
+            <url>https://www.imdb.com/title/tt34385135/</url>
+            <date>Oct 23, 2026</date>
+        </item>
+        <item>
+            <title>Fall 2: Deadpoint (2026)</title>
+            <url>https://www.imdb.com/title/tt31192372/</url>
+            <date>Oct 23, 2026</date>
+        </item>
         <item>
             <title>Bakugan Ep 16-19 [Tagalog]</title>
             <url>aa/gg.html#sss=1OA3J8bAwkVxbPaHE9qZ0_rj3hep7RO2X</url>
@@ -341,9 +368,9 @@
 
         <!-- SECTION 3: Series List -->
         <section>
-            <title>Series</title>
+            <title>Anime Series</title>
             <target_activity>anime_list.java</target_activity>
-            <intent_title>Series</intent_title>
+            <intent_title>Anime Series</intent_title>
             <intent_type>non</intent_type>
             <items>
                 <item>
