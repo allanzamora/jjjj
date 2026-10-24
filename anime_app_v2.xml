@@ -153,16 +153,87 @@
             <intent_type>tv</intent_type>
             <items>
                 <item>
-                    <title>9-1-1: Nashville (2025)</title>
-                    <img>https://md.goojara.to/20248958.jpg</img>
-                    <url>aa01/f01.xml</url>
+                    <title>Agatha Christie's Seven Dials (2026)</title>
+                    <img>https://md.goojara.to/20249519.jpg</img>
+                    <url>aa01/agatha.xml</url>
                     <date>2026</date>
                 </item>
-                
+                <item>
+                    <title>A Knight of the Seven Kingdoms (2026)</title>
+                    <img>https://md.goojara.to/20249534.jpg</img>
+                    <url>aa01/knight.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Supernatural (2005)</title>
+                    <img>https://media.themoviedb.org/t/p/w188_and_h282_face/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg</img>
+                    <url>aa01/supernatural.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Talamasca: The Secret Order (2025)</title>
+                    <img>https://media.themoviedb.org/t/p/w188_and_h282_face/qmmHl3EiFKuDLTVYHGwlV9UhtNw.jpg</img>
+                    <url>aa01/talamasca.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Task (2025)</title>
+                    <img>https://md.goojara.to/20248761.jpg</img>
+                    <url>aa01/task.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Black Rabbit (2025)</title>
+                    <img>https://md.goojara.to/20248844.jpg</img>
+                    <url>aa01/black_rabbit.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Chad Powers (2025)</title>
+                    <img>https://md.goojara.to/20248901.jpg</img>
+                    <url>aa01/chad_powers.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>The Pendragon Cycle: Rise of the Merlin (2026)</title>
+                    <img>https://md.goojara.to/20249571.jpg</img>
+                    <url>aa01/pendragon.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Marshals (2026)</title>
+                    <img>https://md.goojara.to/20249597.jpg</img>
+                    <url>aa01/marshals.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Scrubs (2026)</title>
+                    <img>https://md.goojara.to/20249607.jpg</img>
+                    <url>aa01/scrubs.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Malcolm in the Middle (2026)</title>
+                    <img>https://md.goojara.to/20249670.jpg</img>
+                    <url>aa01/malcolm.xml</url>
+                    <date>2026</date>
+                </item>
                 <item>
                     <title>9-1-1: Nashville (2025)</title>
                     <img>https://md.goojara.to/20248958.jpg</img>
-                    <url>aa01/f01.xml</url>
+                    <url>aa01/911.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>The Chair Company (2025)</title>
+                    <img>https://md.goojara.to/20248970.jpg</img>
+                    <url>aa01/b01.xml</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>DMV (2025)</title>
+                    <img>https://md.goojara.to/20248979.jpg</img>
+                    <url>aa01/b02.xml</url>
                     <date>2026</date>
                 </item>
                 
