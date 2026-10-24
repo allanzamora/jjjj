@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<home_data>
+    
+    <apps>
+        <dbversion>19</dbversion>
+    </apps>
+    
+    
+    
+    <!-- 
+    -->
+    <promote>
+        <item>
+            <title>The End of Oak Street (2026)</title>
+            <genre>Science Fiction, Mystery, Thriller</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_01.jpg</img>
+            <url>https://[vsr]/tt27165187/</url>
+        </item>
+        <item>
+            <title>Super Troopers 3 (2026)</title>
+            <genre>Comedy, Crime, Mystery</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_02.jpg</img>
+            <url>https://[vsr]/tt8820258/</url>
+        </item>
+        <item>
+            <title>Spider-Man: Brand New Day (2026)</title>
+            <genre>Science Fiction, Action, Adventure</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_03.jpg</img>
+            <url>https://[vsr]/tt22084616/</url>
+        </item>
+        <item>
+            <title>The Invite (2026)</title>
+            <genre>Drama, Comedy, Romance</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_04.jpg</img>
+            <url>https://[vsr]/tt14173636/</url>
+        </item>
+        <item>
+            <title>Evil Dead Burn (2026)</title>
+            <genre>Horror</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_05.jpg</img>
+            <url>https://[vsr]/tt31170389/</url>
+        </item>
+        <item>
+            <title>Moana (2026)</title>
+            <genre>Family, Fantasy, Comedy, Adventure</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_06.jpg</img>
+            <url>https://[vsr]/tt27419466/</url>
+        </item>
+        <item>
+            <title>Minions &amp; Monsters (2026)</title>
+            <genre>Adventure, Animation, Comedy, Family, Fantasy</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_07.jpg</img>
+            <url>https://[vsr]/tt32890033/</url>
+        </item>
+        <item>
+            <title>Return to Silent Hill (2026)</title>
+            <genre>Mystery, Drama, Horror</genre>
+            <img>https://tagalog-movies.vercel.app/pic01/banner_08.jpg</img>
+            <url>https://[vsr]/tt22868010/</url>
+        </item>
+    </promote>
+    
+    
+    <header>
+        <app_logo>https://tagalog-movies.vercel.app/ic_launcher4.png</app_logo>
+        <app_title>Tagalog Moviex</app_title>
+        <app_version>v 1.1.2</app_version>
+    </header>
+ 
+    <year>
+        <target_activity>search.java</target_activity>
+        <yrs>2026</yrs>
+        <yrs>2025</yrs>
+        <yrs>2024</yrs>
+        <yrs>2023</yrs>
+        <yrs>2022</yrs>
+        <yrs>2021</yrs>
+        <yrs>2020</yrs>
+        <yrs>2019</yrs>
+        <yrs>2018</yrs>
+        <yrs>2017</yrs>
+        <yrs>2016</yrs>
+        <yrs>2014</yrs>
+        <yrs>2015</yrs>
+        <yrs>2014</yrs>
+        <yrs>2013</yrs>
+        <yrs>2012</yrs>
+        <yrs>2011</yrs>
+        <yrs>2010</yrs>
+        <yrs>2009</yrs>
+        <yrs>2008</yrs>
+        <yrs>2007</yrs>
+        <yrs>2006</yrs>
+        <yrs>2005</yrs>
+        <yrs>2004</yrs>
+        <yrs>2003</yrs>
+        <yrs>2002</yrs>
+        <yrs>2001</yrs>
+        <yrs>2000</yrs>
+    </year>
+    
+    <whatsnew>
+        <!--
+        <item>
+            <title></title>
+            <url></url>
+            <date>Oct 20, 2026</date>
+        </item>
+        -->
+        <item>
+            <title>Iron Lung (2026)</title>
+            <url>https://www.imdb.com/title/tt27564844/</url>
+            <date>Oct 23, 2026</date>
+        </item>
+        <item>
+            <title>Ready or Not 2: Here I Come (2026)</title>
+            <url>https://www.imdb.com/title/tt33978029/</url>
+            <date>Oct 23, 2026</date>
+        </item>
+        <item>
+            <title>Colony (2026)</title>
+            <url>https://www.imdb.com/title/tt34385135/</url>
+            <date>Oct 23, 2026</date>
+        </item>
+        <item>
+            <title>Fall 2: Deadpoint (2026)</title>
+            <url>https://www.imdb.com/title/tt31192372/</url>
+            <date>Oct 23, 2026</date>
+        </item>
+        <item>
+            <title>Bakugan Ep 16-19 [Tagalog]</title>
+            <url>aa/gg.html#sss=1OA3J8bAwkVxbPaHE9qZ0_rj3hep7RO2X</url>
+            <date>Oct 20, 2026</date>
+        </item>
+        <item>
+            <title>Crayon Shin-Chan (2012) Ep 11-12 [Tagalog]</title>
+            <url>aa/gg.html#sss=1Aliny2RevTAP5e9g-Q1c3ub-6F7JuiaW</url>
+            <date>Oct 20, 2026</date>
+        </item>
+    </whatsnew>
+    
+    
+
+
+    <!-- BODY SECTIONS -->
+    <sections>
+        <!-- SECTION 1: Latest Uploads -->
+        
+        <section>
+            <title>TV Series</title>
+            <target_activity>anime_list.java</target_activity>
+            <intent_title>TV Series</intent_title>
+            <intent_type>tv</intent_type>
+            <items>
+                <item>
+                    <title>9-1-1: Nashville (2025)</title>
+                    <img>https://md.goojara.to/20248958.jpg</img>
+                    <url>aa01/f01.xml</url>
+                    <date>2026</date>
+                </item>
+                
+                <item>
+                    <title>9-1-1: Nashville (2025)</title>
+                    <img>https://md.goojara.to/20248958.jpg</img>
+                    <url>aa01/f01.xml</url>
+                    <date>2026</date>
+                </item>
+                
+            </items>
+        </section>
+
+
+        
+        
+        
+        
+        <section>
+            <title>Tagalog Series</title>
+            <target_activity>anime_list.java</target_activity>
+            <intent_title>Tagalog Series</intent_title>
+            <intent_type>tagalog-series</intent_type>
+            <items>
+                <item>
+                    <title>Assassination Classroom Season 1 [Tagalog]</title>
+                    <img>pic/series/3</img>
+                    <url>aa/gg.html#sss=1bDzca6hVrsGd4dI_YnXsUTIRlWk79_kS&amp;tit=Assassination Classroom Season 1 (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Bleach [Tagalog]</title>
+                    <img>pic/series/7</img>
+                    <url>aa/gg.html#sss=1DTqUdv6yiZhuCyBRxtkW4w5uaI455x0a&amp;tit=Bleach Tagalog (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Gintama [Tagalog]</title>
+                    <img>pic/series/24</img>
+                    <url>aa/gg.html#sss=1c2WGTEfpxYX76u5q3lbTOGVRtqMq3pU5&amp;tit=Gintama (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Himouto Umaro Chan [Tagalog]</title>
+                    <img>pic/series/61</img>
+                    <url>aa/gg.html#sss=1sKexuoY5TplciEYboSIIrBZJaiQfKriF&amp;tit=Himouto Umaro Chan (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Hunter x Hunter 2011 [Tagalog]</title>
+                    <img>pic/series/65</img>
+                    <url>aa/gg.html#sss=16cp69-i1riCie6nIObmqNWT-FaJsqpnW&amp;tit=Hunter x Hunter 2011 (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Jujutsu Kaisen [Tagalog]</title>
+                    <img>pic/series/67</img>
+                    <url>aa/gg.html#sss=13tYNBFRl1WK9cmur9EQUuYGex3hnH8oE&amp;tit=Jujutsu Kaisen (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Kurokos Basketball [Tagalog]</title>
+                    <img>pic/series/31</img>
+                    <url>aa/gg.html#sss=1h-RZaVZ0qjE02MiezQ3SaR39pGFIG83s&amp;tit=Kurokos Basketball (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Magi [Tagalog]</title>
+                    <img>pic/series/32</img>
+                    <url>aa/gg.html#sss=11WIA5EscZpxSlf3x_DND2nERpY8rzpUk&amp;tit=Magi (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Naruto Shippuden [Tagalog]</title>
+                    <img>pic/series/35</img>
+                    <url>aa/gg.html#sss=1wjl9HzYQPpB6UA2qU8EZN_UTsaH2N8_3&amp;tit=Naruto Shippuden (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>One Piece [Tagalog]</title>
+                    <img>pic/series/73</img>
+                    <url>aa/gg.html#sss=1oxbBFFAOQlQM4qIGeT2nyag3NUd3pBV_&amp;tit=One Piece (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>One Punchman [Tagalog]</title>
+                    <img>pic/series/37</img>
+                    <url>aa/gg.html#sss=14Kk4xxoKdVTfUM53GivGYn-q6akbhz7e&amp;tit=One Punchman (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Shaman King [Tagalog]</title>
+                    <img>pic/series/39</img>
+                    <url>aa/gg.html#sss=1CKIjt3dL0SN3-2bQSnG1bfY9mNqMAjro&amp;tit=Shaman King (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Slam Dunk [Tagalog]</title>
+                    <img>pic/series/40</img>
+                    <url>aa/gg.html#sss=1KFYSJ4DAp6J5cClqrz8DBasRb1utq7et&amp;tit=Slam Dunk (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Sword Art Online [Tagalog]</title>
+                    <img>pic/series/42</img>
+                    <url>aa/gg.html#sss=10rinUU50Wn68pKGve2uH5rIe4FU1AJ_m&amp;tit=Sword Art Online (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Tokyo Revengers [Tagalog]</title>
+                    <img>pic/series/77</img>
+                    <url>aa/gg.html#sss=1Y0FbZQT4jJcsgIWlmczRs51ElbLz8Ap2&amp;tit=Tokyo Revengers (Tagalog Dub)</url>
+                    <date>2026</date>
+                </item>
+                
+            </items>
+        </section>
+
+
+
+
+
+
+
+
+
+        <!-- SECTION 2: Anime List -->
+        <section>
+            <title>Tagalog Movies</title>
+            <target_activity>anime_list.java</target_activity>
+            <intent_title>Tagalog Movies</intent_title>
+            <intent_type>tagalog-movies</intent_type>
+            <items>
+                <item>
+                    <title>Hunter x Hunter: The Last Mission [Tagalog]</title>
+                    <img>https://image.tmdb.org/t/p/w185/qfjGtlrMynBlkcLgNeziDTmm1M4.jpg</img>
+                    <url>https://[aby]/vWsnE52tK</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Your Name [Tagalog]</title>
+                    <img>https://image.tmdb.org/t/p/w185/q719jXXEzOoYaps6babgKnONONX.jpg</img>
+                    <url>https://[aby]/43SVuoiL_</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>A Silent Voice [Tagalog]</title>
+                    <img>https://image.tmdb.org/t/p/w185/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg</img>
+                    <url>https://[aby]/iUBaj4aWz</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Shin-chan TV copy [Tagalog]</title>
+                    <img>pic/other/shinchan</img>
+                    <url>https://docs.google.com/file/d/17Op0pAlc7XOWxwe-jJo7N21aVdHrs72l/preview</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Dark Tales Of Japan (2005) [Tagalog]</title>
+                    <img>pic/other/13.jpg</img>
+                    <url>https://[rum]/v79rw9o/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Borderlands (2024) [Tagalog]</title>
+                    <img>pic/other/16.webp</img>
+                    <url>https://[rum]/v798h4m/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Forgotten Evil (2017) [Tagalog]</title>
+                    <img>pic/other/22.webp</img>
+                    <url>https://[rum]/v77ghbe/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>A Quiet Place (2018) [Tagalog]</title>
+                    <img>pic/other/26.webp</img>
+                    <url>https://[rum]/v769n5i/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Lights Out (2016) [Tagalog]</title>
+                    <img>pic/other/33</img>
+                    <url>https://[rum]/v74xb4a/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Nine Lives (2016) [Tagalog]</title>
+                    <img>pic/other/35</img>
+                    <url>https://[rum]/v74b7si/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Darkness Of Man (2024) [Tagalog]</title>
+                    <img>pic/other/38</img>
+                    <url>https://[rum]/v73xk1a/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Jurassic World Fallen Kingdom (2018) [Tagalog]</title>
+                    <img>pic/other/41</img>
+                    <url>https://[rum]/v72vbwg/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Snowed In For Christmas (2021) [Tagalog]</title>
+                    <img>pic/other/44</img>
+                    <url>https://[rum]/v724vhe/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Howling Village (2020) [Tagalog]</title>
+                    <img>pic/other/57</img>
+                    <url>https://[rum]/v6z9862/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Death Forest 5 (2016) [Tagalog]</title>
+                    <img>pic/other/60</img>
+                    <url>https://[rum]/v6xjaps/</url>
+                    <date>2026</date>
+                </item>
+                
+                <!-- Add up to 10 items here -->
+            </items>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+        <!-- SECTION 3: Series List -->
+        <section>
+            <title>Anime Series</title>
+            <target_activity>anime_list.java</target_activity>
+            <intent_title>Anime Series</intent_title>
+            <intent_type>non</intent_type>
+            <items>
+                <item>
+                    <title>Ansatsu Kyoushitsu</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/ansatsu-kyoushitsu-4e2253a8e8.jpg</img>
+                    <url>url.html#tit=Ansatsu Kyoushitsu&amp;sss=Ansatsu_Kyoushitsu/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Astarotte no Omocha</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/astarotte-no-omocha-23b2c5713a.jpg</img>
+                    <url>url.html#tit=Astarotte no Omocha!&amp;sss=Astarotte_no_Omocha!/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Basilisk</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/basilisk-kouga-ninpouchou-799c7d5cd5.jpg</img>
+                    <url>url.html#tit=Basilisk&amp;sss=Basilisk/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Bleach</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/bleach-b768583828.jpg</img>
+                    <url>url.html#tit=Bleach&amp;sss=Bleach/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Buddy Complex</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/buddy-complex-239a194713.jpg</img>
+                    <url>url.html#tit=Buddy Complex&amp;sss=Buddy_Complex/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Capeta</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/capeta-149b0c1441.jpg</img>
+                    <url>url.html#tit=Capeta&amp;sss=Capeta/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>ClassicaLoid</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/classicaloid-5825c60072.jpg</img>
+                    <url>url.html#tit=ClassicaLoid&amp;sss=ClassicaLoid/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>DanMachi Gaiden Sword Oratoria</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-47608b6ae1.jpg</img>
+                    <url>url.html#tit=DanMachi Gaiden Sword Oratoria&amp;sss=DanMachi_Gaiden_-_Sword_Oratoria/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Detective Conan</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/detective-conan-8d9a48d3dd.jpg</img>
+                    <url>url.html#tit=Detective Conan&amp;sss=Detective_Conan/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Drifters</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/drifters-ova-a0b70bcbd4.jpg</img>
+                    <url>url.html#tit=Drifters&amp;sss=Drifters/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Fukigen na Mononokean</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/fukigen-na-mononokean-099d405549.jpg</img>
+                    <url>url.html#tit=Fukigen na Mononokean&amp;sss=Fukigen_na_Mononokean/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Fullmetal Alchemist Brotherhood (2009)</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/fullmetal-alchemist-brotherhood-78f15592af.jpg</img>
+                    <url>url.html#tit=Fullmetal Alchemist Brotherhood (2009)&amp;sss=Fullmetal_Alchemist_Brotherhood_(2009)/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>GOD EATER</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/god-eater-a6f6ae1fce.jpg</img>
+                    <url>url.html#tit=GOD EATER&amp;sss=GOD_EATER/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Hackadoll the Animation</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/hacka-doll-the-animation-b76a9ae647.jpg</img>
+                    <url>url.html#tit=Hackadoll the Animation&amp;sss=Hackadoll_the_Animation/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Highschool DxD</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/high-school-dxd-2e04e9c3be.jpg</img>
+                    <url>url.html#tit=Highschool DxD&amp;sss=Highschool_DxD/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Hunter x Hunter 1999</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/hunter-hunter-e35d7a95c9.jpg</img>
+                    <url>url.html#tit=Hunter x Hunter 1999&amp;sss=Hunter_x_Hunter/Hunter x Hunter 1999/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>JoJo's Bizarre Adventure</title>
+                    <img>https://img.animeschedule.net/production/assets/public/img/anime/jpg/default/jojo-no-kimyou-na-bouken-tv-49766685f1.jpg</img>
+                    <url>url.html#tit=JoJo's Bizarre Adventure&amp;sss=JoJo's_Bizarre_Adventure/</url>
+                    <date>2026</date>
+                </item>
+                <!-- Add up to 10 items here -->
+            </items>
+        </section>
+
+
+        <section>
+            <title>Movies</title>
+            <target_activity>anime_list.java</target_activity>
+            <intent_title>Movies</intent_title>
+            <intent_type>movies</intent_type>
+            <items>
+                <item>
+                    <title>2012 Doomsday (2008)</title>
+                    <img>https://md.goojara.to/10201522.jpg</img>
+                    <url>https://[vsr]/tt1132130/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>2012 (2009)</title>
+                    <img>https://md.goojara.to/10000193.jpg</img>
+                    <url>https://[vsr]/tt1190080/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Alice in Wonderland (2010)</title>
+                    <img>https://md.goojara.to/10000008.jpg</img>
+                    <url>https://[vsr]/tt1014759/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>The Invisible (2007)</title>
+                    <img>https://md.goojara.to/10001275.jpg</img>
+                    <url>https://[vsr]/tt0435670/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Abraham Lincoln: Vampire Hunter (2012)</title>
+                    <img>https://md.goojara.to/10201668.jpg</img>
+                    <url>https://[vsr]/tt1611224/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Resident Evil: Welcome to Raccoon City (2021)</title>
+                    <img>https://md.goojara.to/10227490.jpg</img>
+                    <url>https://[vsr]/tt6920084/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Sheep in the Box (2026)</title>
+                    <img>https://tagalog-movies.vercel.app/pic01/aa02.webp</img>
+                    <url>https://[vsr]/tt38551209/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Scream 7 (2026)</title>
+                    <img>https://md.goojara.to/10230737.jpg</img>
+                    <url>https://[vsr]/tt27047903/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>GOAT (2026)</title>
+                    <img>https://md.goojara.to/10230739.jpg</img>
+                    <url>https://[vsr]/tt27613895/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Return to Silent Hill (2026)</title>
+                    <img>https://md.goojara.to/10230747.jpg</img>
+                    <url>https://[vsr]/tt22868010/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>The Punisher: One Last Kill (2026)</title>
+                    <img>https://md.goojara.to/10230752.jpg</img>
+                    <url>https://[vsr]/tt36042156/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Hokum (2026)</title>
+                    <img>https://md.goojara.to/10230753.jpg</img>
+                    <url>https://[vsr]/tt35672862/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Michael (2026)</title>
+                    <img>https://md.goojara.to/10230754.jpg</img>
+                    <url>https://[vsr]/tt11378946/</url>
+                    <date>2026</date>
+                </item>
+                <item>
+                    <title>Spider-Man: Brand New Day (2026)</title>
+                    <img>https://md.goojara.to/10230777.jpg</img>
+                    <url>https://[vsr]/tt22084616/</url>
+                    <date>2026</date>
+                </item>
+                <!-- Add up to 10 items here -->
+            </items>
+        </section>
+
+
+
+
+
+
+
+
+
+    </sections>
+</home_data>
