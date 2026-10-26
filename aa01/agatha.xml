@@ -2,15 +2,15 @@
 <home_data>
 
 
-<season><se_name>Season [1]</se_name>
+<season><se_name>Season 1</se_name>
 <item>
-<title>Episode 1</title><url>https://vidsrc.to/embed/tv/tt31974288/1/1</url>
+<title>Episode 1</title><url>play.html#tv=tt31974288/1/1</url>
 </item>
 <item>
-<title>Episode 2</title><url>https://vidsrc.to/embed/tv/tt31974288/1/2</url>
+<title>Episode 2</title><url>play.html#tv=tt31974288/1/2</url>
 </item>
 <item>
-<title>Episode 3</title><url>https://vidsrc.to/embed/tv/tt31974288/1/3</url>
+<title>Episode 3</title><url>play.html#tv=tt31974288/1/3</url>
 </item>
 </season>
 
