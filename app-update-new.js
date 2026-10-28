@@ -1,3 +1,3 @@
-if (version < 12) {
+if (version < 13) {
     window.location = "update:https://allanzamora.github.io/";
 }
