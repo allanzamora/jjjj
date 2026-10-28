@@ -64,7 +64,7 @@
     <header>
         <app_logo>https://tagalog-movies.vercel.app/ic_launcher4.png</app_logo>
         <app_title>Tagalog Moviex</app_title>
-        <app_version>v 1.1.2</app_version>
+        <app_version>v 1.1.3</app_version>
     </header>
  
     <year>
@@ -109,22 +109,22 @@
         -->
         <item>
             <title>Iron Lung (2026)</title>
-            <url>https://www.imdb.com/title/tt27564844/</url>
+            <url>play.html#s=title/tt27564844/</url>
             <date>Oct 23, 2026</date>
         </item>
         <item>
             <title>Ready or Not 2: Here I Come (2026)</title>
-            <url>https://www.imdb.com/title/tt33978029/</url>
+            <url>play.html#s=title/tt33978029/</url>
             <date>Oct 23, 2026</date>
         </item>
         <item>
             <title>Colony (2026)</title>
-            <url>https://www.imdb.com/title/tt34385135/</url>
+            <url>play.html#s=title/tt34385135/</url>
             <date>Oct 23, 2026</date>
         </item>
         <item>
             <title>Fall 2: Deadpoint (2026)</title>
-            <url>https://www.imdb.com/title/tt31192372/</url>
+            <url>play.html#s=tt31192372/</url>
             <date>Oct 23, 2026</date>
         </item>
         <item>
